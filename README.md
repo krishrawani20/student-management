@@ -1,2 +1,3 @@
 # student-management
-it is a student management system build by using python
+It is a student management system build by using python.
+This is my first Git Repository.
